@@ -5,5 +5,4 @@
 -  Learning AI/ML and real-time data pipelines 🌱
 -  Fun fact: I build clean UIs and efficient APIs ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anushka-ballav&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhomoyganguly&show_icons=true&theme=tokyonight)

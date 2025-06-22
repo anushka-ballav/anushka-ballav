@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anushka Ballav  
+# Hi, there 👋
 ### 🧑‍💻 Full Stack Developer | AI/ML Explorer  
 
 -  Currently working on scalable full stack projects 🔭
